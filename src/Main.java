@@ -1,3 +1,5 @@
+//Gabriela Trevisan da Silva - RMM99500 (Turma 2ESPW)
+
 // Classe Funcionario representa os atributos comuns a todos os funcionários
 class Funcionario {
     // Atributos
